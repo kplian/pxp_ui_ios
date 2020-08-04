@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>350057780263-qnapjmgidgvssggcvirmn5l0hvs7l0en.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.350057780263-qnapjmgidgvssggcvirmn5l0hvs7l0en</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>350057780263-sb13rmosmdaadcleqarltd293vqaqrhc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKiq4OI-uTm7LYG5cAJn66YNLRLKiSpxw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>350057780263</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vouz.vouz</string>
+	<key>PROJECT_ID</key>
+	<string>vouz-282016</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vouz-282016.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:350057780263:ios:abc63a3ff3738313ee2a02</string>
+	<key>DATABASE_URL</key>
+	<string>https://vouz-282016.firebaseio.com</string>
+</dict>
+</plist>
